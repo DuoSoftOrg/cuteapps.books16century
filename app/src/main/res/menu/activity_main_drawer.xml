@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Основное"
+        android:id="@+id/nav_head_item_1">
+        <menu>
+            <group android:checkableBehavior="single">
+                <!--<item
+                    android:id="@+id/nav_bookmarks"
+                    android:icon="@drawable/ic_bookmarks"
+                    android:title="Закладки" />
+                <item
+                    android:id="@+id/nav_last_books"
+                    android:icon="@drawable/ic_history"
+                    android:title="Последние читаемые" />
+                <item
+                    android:id="@+id/nav_fav"
+                    android:icon="@drawable/ic_fav_full"
+                    android:title="Избранные книги" /> -->
+                <item
+                    android:id="@+id/nav_apps"
+                    android:icon="@drawable/ic_apps"
+                    android:title="Ещё книги" />
+
+                <item
+                    android:id="@+id/nav_news"
+                    android:icon="@drawable/ic_news"
+                    android:title="Новости" />
+
+                <item
+                    android:id="@+id/nav_tg"
+                    android:icon="@drawable/ic_group"
+                    android:title="Сообщества" />
+
+                <item
+                    android:id="@+id/nav_archive"
+                    android:icon="@drawable/ic_delete"
+                    android:title="Архив" />
+                <item
+                    android:id="@+id/nav_settings"
+                    android:icon="@drawable/ic_settings"
+                    android:title="Настройки" />
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Дополнительно"
+        android:id="@+id/nav_head_item_2">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_disable_ads"
+                    android:icon="@drawable/ic_cake"
+                    android:title="Отключить рекламу" />
+                <item
+                    android:id="@+id/nav_share"
+                    android:icon="@drawable/ic_share"
+                    android:title="Порекомендовать приложение" />
+                <item
+                    android:id="@+id/nav_vote"
+                    android:icon="@drawable/ic_star_full"
+                    android:title="Оценить приложение" />
+                <item
+                    android:id="@+id/nav_site"
+                    android:icon="@drawable/ic_site"
+                    android:title="Политика конф-ти" />
+
+            </group>
+        </menu>
+    </item>
+
+</menu>

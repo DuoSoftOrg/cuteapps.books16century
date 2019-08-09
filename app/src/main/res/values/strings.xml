@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Книги XVI-XIX веков</string>
+    <string name="api_folder">https://duosoft.org/api/books16century/content</string>
+    <string name="package_name">ru.cuteapps.books16century</string>
+    <string name="api_socials">https://duosoft.org/api/apps/socials.json</string>
+    <string name="api_apps">https://duosoft.org/api/apps/cuteapps_allbooks.json</string>
+    <string name="share_text">https://play.google.com/store/apps/details?id=ru.cuteapps.books16century</string>
+    <string name="api_news">https://duosoft.org/api/apps/duosoft_news.json</string>
+
+    <string name="ads_app_id">ca-app-pub-3956530438590758~8133790175</string>
+    <string name="unit_id_pager">ca-app-pub-3956530438590758/3172929926</string>
+    <string name="unit_id_banner">ca-app-pub-3956530438590758/5830882852</string>
+    <string name="unit_id_pager_interstitial">ca-app-pub-3956530438590758/9476792431</string>
+
+    <string translatable="false" name="yandex_api_key">a787f916-27e6-4ceb-b6e9-e32339265ca9</string>
+    <string translatable="false" name="yandex_banner">R-M-249698-1</string>
+    <string translatable="false" name="yandex_pager">R-M-249698-3</string>
+    <string translatable="false" name="yandex_native">R-M-249698-5</string>
+
+
+    <string name="action_fav">Добавить книгу в избранное</string>
+    <string name="action_bookmark">Сохранить закладку</string>
+    <string name="action_bookmarks">Менеджер закладок</string>
+    <string name="action_ads">Отключить рекламу</string>
+    <string name="search_hint">Поиск книги...</string>
+
+    <string name="title_fav_activity">Избранные книги</string>
+    <string name="action_share">Поделиться книгой</string>
+    <string name="label_advertisement">реклама</string>
+    <string name="action_title_add_to_fav">Добавить книгу в избранное</string>
+    <string name="action_title_remove_from_fav">Удалить книгу из избранного</string>
+    <string name="toast_bookmark_saved">Закладка сохранена</string>
+    <string name="action_plus_text">Увеличить размер шрифта</string>
+    <string name="action_minus_text">Уменьшить размер шрифта</string>
+    <string name="action_enable_dark_theme">Ночной режим</string>
+
+    <string name="tg_promo_first">А Вы знали, что у нас есть Telegram канал с отборными книгами? Обязательно подпишитесь, чтобы ничего не пропустить!</string>
+    <string name="tg_promo">В нашем Telegram канале появилось много нового!</string>
+    <string name="vk_promo_first">А Вы знали, что у нас есть книжное сообщество ВКонтакте? Присоединяйтесь, будет интересно!</string>
+    <string name="vk_promo">В нашем паблике ВКонтакте появилось много нового, не пропустите!</string>
+    <string name="social_promo_first">Обязательно посетите наши литературные сообщества в соцсетях!</string>
+    <string name="social_promo">В наших книжных сообществах появилось много нового, не пропустите!</string>
+
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="text_archive_add">Книга перемещена в архив</string>
+    <string name="text_archive_remove">Книга восстановлена из архива</string>
+    <string name="dialog_archive_add">Переместить книгу в архив? Её можно будет восстановить в дальнейшем</string>
+
+    <string name="navigation_drawer_open">Открыть меню</string>
+    <string name="navigation_drawer_close">Закрыть меню</string>
+
+    <string name="text_fav_add">Книга добавлена в избранное</string>
+    <string name="text_fav_remove">Книга удалена из избранного</string>
+
+    <string name="label_tg">Телеграм канал</string>
+    <string name="label_vk">Паблик в ВК</string>
+    <string name="label_socials_title">Присоединяйтесь к нашим книжным сообществам!</string>
+
+</resources>

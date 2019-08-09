@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Настройки приложения">
+
+        <SwitchPreference
+            android:title="Тёмная тема"
+            android:summary="Отлично подходит для ночного чтения"
+            android:defaultValue="false"
+            android:key="theme_dark"
+            />
+
+        <SwitchPreference
+            android:title="Открыть книгу при запуске"
+            android:summary="При запуске приложения откроется последняя читаемая книга, а не главный экран"
+            android:defaultValue="true"
+            android:key="item_load_last_book"
+            />
+
+        <Preference
+            android:title="Отключить рекламу"
+            android:summary="Хороший способ поблагодарить разработчиков :)"
+            android:key="disable_ads"
+            />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Настройки чтения">
+<!--
+        <SwitchPreference
+            android:title="Скрывать меню"
+            android:summary="Автоматически сворачивать меню при прокрутке страниц"
+            android:defaultValue="false"
+            android:key="item_menu_auto_hide"
+            />
+
+        <SwitchPreference
+            android:title="Навигация свайпом"
+            android:summary="Перелистывать страницы левым и правым свайпом"
+            android:defaultValue="false"
+            android:key="item_navigation_by_swipe"
+            />
+-->
+        <SwitchPreference
+            android:title="Сохранять позицию на странице"
+            android:summary="Автоматическое сохранение вертикальной позиции страницы"
+            android:defaultValue="true"
+            android:key="item_auto_save_progress"
+            />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

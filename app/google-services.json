@@ -1,0 +1,714 @@
+{
+  "project_info": {
+    "project_number": "807718435418",
+    "firebase_url": "https://cuteapps24-47729.firebaseio.com",
+    "project_id": "cuteapps24-47729",
+    "storage_bucket": "cuteapps24-47729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:fceb4aa4ba6e4d25",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookpersonalfinance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-2fod2fqj9nbuii7nl7k9enal17itsnfi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookpersonalfinance",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:1bc2540dc5087f7c",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.books16century"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-n30cbcn0u2d7hpknlsubb3funio3ri7t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.books16century",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:b8bc59e3230ee414",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksaction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-ut0lhn9j2h1ferlrrrh1l4f68pkfms0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksaction",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:80c45dad17ba3127",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksbiography"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-hopul13hftab9o0ap6fhb5217tfdvd7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksbiography",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:30d2192bd60aa632",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksbusiness"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-fkh0r576le93dt0h208ieq87ls81r02j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksbusiness",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:123c5a21833e4a8b",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksdetectivecrime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-e6g5krj0cskjkvpisv1hlmm2i4mmhajc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksdetectivecrime",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:dc71fd4242884a2d",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksdetectivepolice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-jod31aqptg0qf6serdme9cuocbilnm6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksdetectivepolice",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:ec7ed53846f4e314",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksdetectivesf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-ksiach2qkh763qpgqlbt96pp677hsfjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksdetectivesf",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:66fea9c58ced06c7",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksdetectivespy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-vb4rtdv087m65eo24vghoaf5n1gal005.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksdetectivespy",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:f56e442007506b76",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksdetectivewoman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-u614vtvpariostp9u527cvd8hi9neopg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksdetectivewoman",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:0d4cf24a55f7adbd",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookseconomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-qb0o0lmf18qbkm85lcdh1popf2h20ska.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookseconomics",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:e704541a69ed6598",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookslove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-fllvuj16jkk7q9f9imus9poo89p7a8ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookslove",
+            "certificate_hash": "f4b7a587fca45feca2a78ced1f22a6e24ab0bfbd"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:fc9a194851c02a98",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookslovedetective"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-dp1aen1ba6o7q7tulhp2la5d5fae429t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookslovedetective",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:82ec0f21adc11fab",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookslovefantasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-rmb5fgrkv6l0at7ah0otlt2ocpif9nc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookslovefantasy",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:c039189cb5247c82",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookslovehistory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-bpospcne55lrc8gpdjl3s74ui6ipjlr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookslovehistory",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:273b0e0128d76805",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.bookslovemodern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-5m95ftqlc455s0getq372edsl802pf0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.bookslovemodern",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:1a09cc5b6504e630",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksloveshort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-1oqu3fvd0ic3o8p4ntj0hjoc4unv7eag.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksloveshort",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:d9267c439507e889",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.booksnonfiction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-ocfdtgs1qmt93lks5ia3m3reajjlibei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.booksnonfiction",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807718435418:android:81b7bae7d9f680ad",
+        "android_client_info": {
+          "package_name": "ru.cuteapps.books16century"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807718435418-q258rnl1cuammmjlobh58r520gkvns6f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.cuteapps.books16century",
+            "certificate_hash": "1d9997a08d8171843a1594bbb23e60687ddeb1d4"
+          }
+        },
+        {
+          "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBi5UJKLwVrf8MunxhaGjNp56rmC_MOcMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807718435418-s3rsgj41dt8n00dteivoisde5seq1t1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

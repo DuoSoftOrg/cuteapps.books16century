@@ -1,0 +1,91 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_vk"
+        android:orderInCategory="101"
+        android:title="Перейти к сообществу в ВК"
+        android:icon="@drawable/vk"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_tg"
+        android:orderInCategory="102"
+        android:title="Перейти в Telegram-канал"
+        android:icon="@drawable/tg"
+        android:visible="false"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_socials"
+        android:orderInCategory="102"
+        android:title="Мы в соцсетях"
+        android:icon="@drawable/ic_group"
+        android:visible="false"
+        app:showAsAction="always" />
+
+    <group android:id="@+id/group_1">
+        <item
+            android:id="@+id/action_help"
+            android:orderInCategory="100"
+            android:title="Помощь"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_bookmark"
+            android:orderInCategory="100"
+            android:title="@string/action_bookmark"
+            android:icon="@drawable/ic_bookmark"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_bookmarks"
+            android:orderInCategory="100"
+            android:title="@string/action_bookmarks"
+            android:icon="@drawable/ic_bookmarks"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_fav"
+            android:orderInCategory="100"
+            android:title="@string/action_fav"
+            android:icon="@drawable/ic_fav_empty"
+            app:showAsAction="never" />
+    </group>
+
+    <group android:id="@+id/group_2">
+        <item
+            android:id="@+id/action_plus_text"
+            android:orderInCategory="100"
+            android:title="@string/action_plus_text"
+            android:icon="@drawable/ic_fav_empty"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/action_minus_text"
+            android:orderInCategory="100"
+            android:title="@string/action_minus_text"
+            android:icon="@drawable/ic_fav_empty"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_enable_dark_theme"
+            android:orderInCategory="100"
+            android:title="@string/action_enable_dark_theme"
+            android:icon="@drawable/ic_fav_empty"
+            android:checkable="true"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_news"
+            android:orderInCategory="103"
+            android:title="Книжные новости"
+            android:visible="true"
+            app:showAsAction="never" />
+
+        <item
+            android:id="@+id/action_ads"
+            android:orderInCategory="103"
+            android:title="@string/action_ads"
+            android:icon="@drawable/no_ads"
+            android:visible="true"
+            app:showAsAction="never" />
+    </group>
+
+</menu>
